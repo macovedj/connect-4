@@ -1,0 +1,9 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.drop-slot:hover {
+  background: salmon;
+}
